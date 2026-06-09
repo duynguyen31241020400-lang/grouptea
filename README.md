@@ -24,14 +24,6 @@ GROUPTEA giúp bạn tìm đúng người, đúng nhóm — dựa trên mục ti
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lucide React](https://lucide.dev/)
 
-## Chạy local
-
-```bash
-npm install
-npm run dev
-```
-
-Mở [http://localhost:3000](http://localhost:3000) trên trình duyệt.
 
 ## Build production
 
