@@ -58,7 +58,3 @@ src/
 ## Triển khai
 
 Dự án được triển khai trên [Vercel](https://vercel.com/). Mỗi lần push lên nhánh chính sẽ tự động build và deploy.
-
-## Bản quyền
-
-© 2025 GroupTea. All rights reserved.
